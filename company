@@ -3,6 +3,8 @@ provider
 make some more changes and then push
 
 a=b
+resource
+amazon Ec2 instance
 
 Added ordered list
 Add a new para
